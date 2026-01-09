@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌦️ WeatherAppXML
 
 A beautiful and responsive Android weather application built using **Retrofit** and the **OpenWeather API**, following clean **MVVM architecture**. The app fetches real-time weather data based on user input and displays essential metrics like temperature, humidity, pressure, and weather condition. Includes unit tests for ViewModel to ensure reliability and maintainability.
@@ -29,3 +30,6 @@ A beautiful and responsive Android weather application built using **Retrofit** 
 ## 🧱 Project Architecture
 
 ![image](https://github.com/user-attachments/assets/8b59a197-15f5-45cf-89c7-16b16e03d26d)
+=======
+# AndroidStudio_WeatherApp
+>>>>>>> 00c0d9648fc5b935eea84fc80ddd76284254c41b
